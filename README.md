@@ -1,6 +1,4 @@
 
----
-
 # **Forecasting Amazon Stock Prices: A Time-Series Analysis**
 
 ## **Project Overview**
@@ -141,5 +139,3 @@ library(ggplot2)
 
 ## **References**
 - [NASDAQ Historical Data](https://www.nasdaq.com/market-activity/stocks/amzn/historical)
-
----
